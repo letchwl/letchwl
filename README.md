@@ -7,7 +7,7 @@ Olá, me chamo Raul e sou um Desenvolvedor, me enquadro neste Título desde que 
 
 ---
 
-### 🖥️ Linguagens de Programação:
+### 🖥️ Linguagens e Tecnologias:
 <p align="center">
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />

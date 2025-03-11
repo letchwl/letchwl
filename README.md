@@ -7,13 +7,17 @@ Olá, me chamo Raul e sou um Desenvolvedor, me enquadro neste Título desde que 
 
 ---
 
-### 📌 Linguagens:
+### 🖥️ Linguagens de Programação:
 <p align="center">
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
 
-### ⚙️ Ferramentas:
+### 🗄️ Banco de Dados:
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-%23316292.svg?style=flat&logo=postgresql&logoColor=white" />
+
+### 📦 Ferramentas e Framework:
 <p align="center">
   <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/Maven-%23C71F37.svg?style=flat&logo=apachemaven&logoColor=white" />

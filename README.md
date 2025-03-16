@@ -19,7 +19,6 @@ Olá, me chamo Raul e sou um Desenvolvedor, me enquadro neste Título desde que 
 
 ### 🛠️ Ferramentas e Framework:
 <p align="center">
-  <img src="https://img.shields.io/badge/Spring%20Framework-%236DB33F.svg?style=flat&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Data%20JPA-%236DB33F.svg?style=flat&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/Maven-%23C71F37.svg?style=flat&logo=apachemaven&logoColor=white" />

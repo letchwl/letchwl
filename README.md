@@ -21,7 +21,7 @@ Olá, me chamo Raul e sou um Desenvolvedor, me enquadro neste Título desde que 
 <p align="center">
   <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Data%20JPA-%236DB33F.svg?style=flat&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Spring%20Web-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Web-%236DB33F.svg?style=flat&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/Maven-%23C71F37.svg?style=flat&logo=apachemaven&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white" />
 </p>

@@ -10,33 +10,29 @@ Aplicações, Web Sites e tudo que possamos imaginar no mundo da tecnologia.
 
 ---
 
-## 💻 Linguagens e Tecnologias
+## ⚙️ Stack de Tecnologias
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-F89820?style=flat&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-</p>
+- 🌐 **Web**
+  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
----
+- 💾 **Banco de Dados**
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
-## 🗄️ Banco de Dados
+- ☕ **Backend**
+  ![Java](https://img.shields.io/badge/Java-F89820?style=flat&logo=openjdk&logoColor=white)
+  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+  ![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-3F873F?style=flat&logo=spring&logoColor=white)
+  ![Spring Web](https://img.shields.io/badge/Spring_Web-2C6B2C?style=flat&logo=spring&logoColor=white)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
-</p>
+- 🛠️ **Ferramentas**
+  ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
+  ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
----
-
-## 🛠️ Ferramentas e Frameworks
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Data_JPA-3F873F?style=flat&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Web-2C6B2C?style=flat&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"/>
-</p>
+- 📚 **Estudando**
+  ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=spring&logoColor=white)
+  ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
 ---
 

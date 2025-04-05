@@ -13,9 +13,7 @@ Aplicações, Web Sites e tudo que possamos imaginar no mundo da tecnologia.
 
 - ☕ **Backend**
   ![Java](https://img.shields.io/badge/Java-F89820?style=flat&logo=openjdk&logoColor=white)
-  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-  ![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-3F873F?style=flat&logo=spring&logoColor=white)
-  ![Spring Web](https://img.shields.io/badge/Spring_Web-2C6B2C?style=flat&logo=spring&logoColor=white)
+  ![Spring](https://img.shields.io/badge/Spring_Framework-6DB33F?style=flat&logo=spring&logoColor=white)
 
 - 🛠️ **Ferramentas**
   ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)

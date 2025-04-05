@@ -23,7 +23,6 @@ Aplicações, Web Sites e tudo que possamos imaginar no mundo da tecnologia.
 
 - 🛠️ **Ferramentas**
   ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
-  ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
 - 📚 **Estudando**
   ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=spring&logoColor=white)

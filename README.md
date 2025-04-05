@@ -1,7 +1,3 @@
-# 👋 Hi There
-
----
-
 ## 🌱 Sobre Mim
 
 Olá, me chamo Raul e sou um Desenvolvedor. Me enquadro neste título desde que comecei a estudar Java com 14 anos de idade.  

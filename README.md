@@ -1,41 +1,58 @@
-# Hi There 👋
-
---- 
-
-## 🌱 Sobre Mim:
-Olá, me chamo Raul e sou um desenvolvedor. Iniciei meus estudos em Java aos 14 anos e, desde então, venho me aprofundando no universo da programação.
+# 👋 Hi There
 
 ---
 
-### 🖥️ Linguagens e Tecnologias:
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+## 🌱 Sobre Mim
 
-### 🗄️ Banco de Dados:
-<p align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-%23316292.svg?style=flat&logo=postgresql&logoColor=white" />
+Olá, me chamo Raul e sou um Desenvolvedor. Me enquadro neste título desde que comecei a estudar Java com 14 anos de idade.  
+Quando comecei a estudar programação, percebi que com uma linguagem podemos criar diversas coisas:  
+Aplicações, Web Sites e tudo que possamos imaginar no mundo da tecnologia.
 
-### 🛠️ Ferramentas e Framework:
+---
+
+## 💻 Linguagens e Tecnologias
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Data%20JPA-%236DB33F.svg?style=flat&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Web-%236DB33F.svg?style=flat&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/Maven-%23C71F37.svg?style=flat&logo=apachemaven&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-F89820?style=flat&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
 </p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=letchwl&show_icons=true&theme=dark)
+---
+
+## 🗄️ Banco de Dados
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
+</p>
 
 ---
-# Contact 📛
-<a href="https://www.linkedin.com/in/raul-lauro-alves-pereira-3403b733b/" target="_blank">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://discord.gg/bBXDq7bsmr" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
-<a href="mailto:raullalvespe1227@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+
+## 🛠️ Ferramentas e Frameworks
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Data_JPA-3F873F?style=flat&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Web-2C6B2C?style=flat&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=letchwl&show_icons=true&theme=dark" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=letchwl&layout=compact&theme=dark" height="160"/>
+</p>
+
+---
+
+## 👇 Contato
+
+<p>
+  <a href="https://www.linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://discord.com"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white"/></a>
+  <a href="mailto:seuemail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+</p>

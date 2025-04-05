@@ -3,7 +3,7 @@
 --- 
 
 ## 🌱 Sobre Mim:
-Olá, me chamo Raul e sou um Desenvolvedor, me enquadro neste Título desde que comecei a Estudar Java com 14 Anos de Idade. Quando comecei a estudar programação começando pelo Java, percebi que com Linguagem de Programação podemos fazer Diversar coisas desde Aplicações, Web Sites e tudo que possamos imaginar no mundo da tecnologia.
+Olá, me chamo Raul e sou um desenvolvedor. Iniciei meus estudos em Java aos 14 anos e, desde então, venho me aprofundando no universo da programação.
 
 ---
 
@@ -25,6 +25,8 @@ Olá, me chamo Raul e sou um Desenvolvedor, me enquadro neste Título desde que 
   <img src="https://img.shields.io/badge/Maven-%23C71F37.svg?style=flat&logo=apachemaven&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white" />
 </p>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=letchwl&show_icons=true&theme=dark)
 
 ---
 # Contact 📛

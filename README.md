@@ -12,10 +12,6 @@ Aplicações, Web Sites e tudo que possamos imaginar no mundo da tecnologia.
 
 ## ⚙️ Stack de Tecnologias
 
-- 🌐 **Web**
-  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
 - 💾 **Banco de Dados**
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 

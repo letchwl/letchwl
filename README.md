@@ -5,7 +5,6 @@ Quando comecei a estudar programação, percebi que com uma linguagem podemos cr
 Aplicações, Web Sites e tudo que possamos imaginar no mundo da tecnologia.
 
 ---
-
 ## ⚙️ Stack de Tecnologias
 
 - 💾 **Banco de Dados**
@@ -13,15 +12,28 @@ Aplicações, Web Sites e tudo que possamos imaginar no mundo da tecnologia.
 
 - ☕ **Backend**
   ![Java](https://img.shields.io/badge/Java-F89820?style=flat&logo=openjdk&logoColor=white)
-  ![Spring](https://img.shields.io/badge/Spring_Framework-6DB33F?style=flat&logo=spring&logoColor=white)
+  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+  ![Spring Web](https://img.shields.io/badge/Spring_Web-00A676?style=flat&logo=spring&logoColor=white)
+  ![Spring Security](https://img.shields.io/badge/Spring_Security-009688?style=flat&logo=springsecurity&logoColor=white)
+  ![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-43A047?style=flat&logo=spring&logoColor=white)
+  ![Spring Mail](https://img.shields.io/badge/Spring_Mail-388E3C?style=flat&logo=spring&logoColor=white)
 
-- 🛠️ **Ferramentas**
+- 🛠️ **Ferramentas e Gerenciamento**
   ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellijidea&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-- 📚 **Estudando**
+- 🌐 **Frontend** (Base)
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+- 📚 **Estudando e em Formação**
   ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=spring&logoColor=white)
-  ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
-  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+  ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 
 ---
 

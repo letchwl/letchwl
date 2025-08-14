@@ -19,6 +19,7 @@ Aplicações, Web Sites e tudo que possamos imaginar no mundo da tecnologia.
   ![Spring Security](https://img.shields.io/badge/Spring_Security-009688?style=flat&logo=springsecurity&logoColor=white)
   ![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-43A047?style=flat&logo=spring&logoColor=white)
   ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=white)
+  ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit&logoColor=white)
 
 - 🛠️ **Ferramentas e Gerenciamento**
   ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)

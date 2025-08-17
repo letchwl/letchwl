@@ -1,8 +1,8 @@
 ## 🌱 Sobre Mim
 
-Olá, me chamo Raul e sou um Desenvolvedor. Me enquadro neste título desde que comecei a estudar Java com 14 anos de idade.  
-Quando comecei a estudar programação, percebi que com uma linguagem podemos criar diversas coisas:  
-Aplicações, Web Sites e tudo que possamos imaginar no mundo da tecnologia.
+Olá, me chamo Raul e sou desenvolvedor. Entrei nesse mundo aos 14 anos, quando comecei a estudar Java, e desde então percebi algo incrível: com programação podemos transformar ideias em realidade — seja uma aplicação, um site ou qualquer solução que a imaginação permitir.
+
+Hoje meu foco é desenvolver sistemas bem organizados e sustentáveis, aplicando boas práticas e princípios de arquitetura para criar soluções claras, escaláveis e fáceis de evoluir.
 
 ---
 ## ⚙️ Stack de Tecnologias
@@ -17,7 +17,6 @@ Aplicações, Web Sites e tudo que possamos imaginar no mundo da tecnologia.
   ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
   ![Spring Web](https://img.shields.io/badge/Spring_Web-00A676?style=flat&logo=spring&logoColor=white)
   ![Spring Security](https://img.shields.io/badge/Spring_Security-009688?style=flat&logo=springsecurity&logoColor=white)
-  ![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-43A047?style=flat&logo=spring&logoColor=white)
   ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=white)
   ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit&logoColor=white)
 
@@ -27,7 +26,6 @@ Aplicações, Web Sites e tudo que possamos imaginar no mundo da tecnologia.
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
   ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellijidea&logoColor=white)
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-  ![Linux Shell](https://img.shields.io/badge/Linux_Shell-FCC624?style=flat&logo=gnubash&logoColor=black)
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 - 🌐 **Frontend** (Base)

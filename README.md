@@ -24,8 +24,6 @@ Hoje meu foco é desenvolver sistemas bem organizados e sustentáveis, aplicando
   ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellijidea&logoColor=white)
-  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 - 🌐 **Frontend** (Base)
